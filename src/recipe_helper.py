@@ -51,7 +51,16 @@ def parse_ingredients(text: str) -> List[str]:
     Returns:
         List of normalized ingredients
     """
-    parts = [p.strip() for p in text.replace(';', ',').split(',') if p.strip()]
+    import re
+
+    # Split on commas or semicolons first (preferred explicit separators)
+    parts = [p.strip() for p in re.split(r"[;,]", text) if p.strip()]
+
+    # If user didn't use commas/semicolons and provided a space-separated list
+    # (e.g. `chicken rice broccoli`), split on whitespace as a fallback.
+    if len(parts) == 1 and " " in text and "," not in text and ";" not in text:
+        parts = [p.strip() for p in text.split() if p.strip()]
+
     normalized = [normalize(p) for p in parts]
     return normalized
 
@@ -73,6 +82,7 @@ def match_recipes(ingredients: List[str], min_match: int = 2, diet: str = None) 
     Returns:
         List of (recipe_dict, match_count) tuples, sorted by best matches
     """
+    # Normalize user-provided ingredients
     ing_set = set([normalize(i) for i in ingredients])
     matches = []
     
@@ -84,9 +94,16 @@ def match_recipes(ingredients: List[str], min_match: int = 2, diet: str = None) 
                 continue  # Skip recipes that don't match user's diet
         
         # Count ingredient overlap
-        recipe_ings = set([normalize(i) for i in r.get("ingredients", [])])
-        common = ing_set & recipe_ings
-        count = len(common)
+        recipe_ings_list = [normalize(i) for i in r.get("ingredients", [])]
+
+        # Allow substring and exact matches: e.g., user 'soba' matches 'soba noodles'
+        matched = set()
+        for u in ing_set:
+            for ri in recipe_ings_list:
+                if u == ri or u in ri or ri in u:
+                    matched.add(ri)
+
+        count = len(matched)
         
         # Keep recipe if it meets minimum threshold
         if count >= min_match:

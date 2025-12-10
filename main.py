@@ -78,7 +78,16 @@ def main():
     print()
 
     while True:
-        q = ask_user("Anything else? Ask for substitutions, time, or 'want to make this' to confirm, or 'exit'")
+        try:
+            q = ask_user("Anything else? Ask for substitutions, time, or 'want to make this' to confirm, or 'exit'")
+        except (EOFError, KeyboardInterrupt):
+            print("\nInput closed. Exiting.")
+            break
+
+        # If the user just pressed Enter (empty response), reprompt instead
+        if not q:
+            continue
+
         if q.lower() in ("exit", "quit", "no"):
             print("Bye — happy cooking!")
             break

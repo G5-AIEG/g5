@@ -2548,5 +2548,4462 @@
     "tags": [
       "sweet potato"
     ]
+  },
+  {
+    "title": "Yogurt Salad",
+    "ingredients": [
+      "yogurt",
+      "paprika",
+      "vinegar",
+      "garlic"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook paprika, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ]
+  },
+  {
+    "title": "Paprika Skillet",
+    "ingredients": [
+      "paprika",
+      "mushroom",
+      "lime",
+      "rice",
+      "ginger",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook mushroom, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ]
+  },
+  {
+    "title": "Feta Medley",
+    "ingredients": [
+      "feta",
+      "asparagus",
+      "kidney beans",
+      "paprika",
+      "ground turkey"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook asparagus, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ]
+  },
+  {
+    "title": "Salmon Medley",
+    "ingredients": [
+      "salmon",
+      "mozzarella",
+      "teriyaki sauce",
+      "paprika"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook mozzarella, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ]
+  },
+  {
+    "title": "Quinoa Saut\u00e9",
+    "ingredients": [
+      "quinoa",
+      "coriander",
+      "cinnamon",
+      "turkey"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook coriander, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ]
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "rice",
+      "potato",
+      "parmesan"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook rice, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ]
+  },
+  {
+    "title": "Tomato Delight",
+    "ingredients": [
+      "tomato",
+      "sesame seeds",
+      "cucumber",
+      "bell pepper",
+      "bread"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook sesame seeds, cucumber until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ]
+  },
+  {
+    "title": "Cumin Medley",
+    "ingredients": [
+      "cumin",
+      "turkey",
+      "cinnamon",
+      "chard",
+      "lentils"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook turkey, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ]
+  },
+  {
+    "title": "Mushroom Skillet",
+    "ingredients": [
+      "mushroom",
+      "garlic powder",
+      "cheese",
+      "cinnamon",
+      "chili flakes",
+      "carrot"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook garlic powder, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ]
+  },
+  {
+    "title": "Beef Bowl",
+    "ingredients": [
+      "beef",
+      "tofu",
+      "tuna",
+      "cod",
+      "quinoa",
+      "bread",
+      "bell pepper"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook tofu, tuna until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Cucumber Skillet",
+    "ingredients": [
+      "cucumber",
+      "milk",
+      "mayonnaise",
+      "banana"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook milk, mayonnaise until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ]
+  },
+  {
+    "title": "Tempeh Skillet",
+    "ingredients": [
+      "tempeh",
+      "soy sauce",
+      "chili flakes",
+      "pinto beans"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook soy sauce, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Honey Skillet",
+    "ingredients": [
+      "honey",
+      "onion",
+      "onion powder",
+      "sesame seeds",
+      "egg"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook onion, onion powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Cucumber Skillet",
+    "ingredients": [
+      "cucumber",
+      "salt",
+      "black beans",
+      "soy sauce",
+      "mushroom",
+      "kale",
+      "turmeric"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook salt, black beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ]
+  },
+  {
+    "title": "Potato Saut\u00e9",
+    "ingredients": [
+      "potato",
+      "pinto beans",
+      "salt",
+      "sweet potato",
+      "ground turkey",
+      "milk"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook pinto beans, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ]
+  },
+  {
+    "title": "Mushroom Special",
+    "ingredients": [
+      "mushroom",
+      "black beans",
+      "tofu",
+      "duck",
+      "pasta",
+      "onion"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook black beans, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ]
+  },
+  {
+    "title": "Sweet potato Delight",
+    "ingredients": [
+      "sweet potato",
+      "soba noodles",
+      "cumin",
+      "asparagus",
+      "cod",
+      "bread",
+      "basil"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the sweet potato and other ingredients.",
+      "Cook soba noodles, cumin until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sweet potato"
+    ]
+  },
+  {
+    "title": "Parsley Delight",
+    "ingredients": [
+      "parsley",
+      "carrot",
+      "ginger",
+      "cheese",
+      "cod",
+      "basil",
+      "pork"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook carrot, ginger until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ]
+  },
+  {
+    "title": "Onion powder Delight",
+    "ingredients": [
+      "onion powder",
+      "zucchini",
+      "salmon",
+      "chard",
+      "rice",
+      "garlic"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the onion powder and other ingredients.",
+      "Cook zucchini, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion powder"
+    ]
+  },
+  {
+    "title": "Egg Skillet",
+    "ingredients": [
+      "egg",
+      "pine nuts",
+      "tofu",
+      "chickpeas",
+      "turkey",
+      "onion",
+      "teriyaki sauce"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook pine nuts, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "title": "Pasta Salad",
+    "ingredients": [
+      "pasta",
+      "mozzarella",
+      "basil",
+      "garlic",
+      "coconut milk",
+      "honey",
+      "parmesan"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook mozzarella, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ]
+  },
+  {
+    "title": "Basil Delight",
+    "ingredients": [
+      "basil",
+      "turmeric",
+      "pepper",
+      "butter",
+      "lettuce",
+      "cilantro",
+      "bell pepper"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the basil and other ingredients.",
+      "Cook turmeric, pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "basil"
+    ]
+  },
+  {
+    "title": "Tempeh Saut\u00e9",
+    "ingredients": [
+      "tempeh",
+      "pork",
+      "paprika",
+      "parmesan",
+      "beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook pork, paprika until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Pepper Salad",
+    "ingredients": [
+      "pepper",
+      "sweet potato",
+      "lemon",
+      "tempeh",
+      "tuna",
+      "vinegar"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pepper and other ingredients.",
+      "Cook sweet potato, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pepper"
+    ]
+  },
+  {
+    "title": "Tempeh Saut\u00e9",
+    "ingredients": [
+      "tempeh",
+      "lettuce",
+      "salmon",
+      "peas",
+      "garlic powder"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook lettuce, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Sesame seeds Delight",
+    "ingredients": [
+      "sesame seeds",
+      "ground turkey",
+      "stock",
+      "garlic"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook ground turkey, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Tomato Salad",
+    "ingredients": [
+      "tomato",
+      "milk",
+      "eggplant",
+      "green beans",
+      "stock",
+      "teriyaki sauce"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook milk, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ]
+  },
+  {
+    "title": "Seaweed Bowl",
+    "ingredients": [
+      "seaweed",
+      "chili powder",
+      "pesto",
+      "cilantro"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook chili powder, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ]
+  },
+  {
+    "title": "Curry powder Medley",
+    "ingredients": [
+      "curry powder",
+      "ground turkey",
+      "basil",
+      "soy sauce",
+      "asparagus",
+      "seaweed"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the curry powder and other ingredients.",
+      "Cook ground turkey, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "curry powder"
+    ]
+  },
+  {
+    "title": "Basil Medley",
+    "ingredients": [
+      "basil",
+      "garlic powder",
+      "chard",
+      "parmesan"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the basil and other ingredients.",
+      "Cook garlic powder, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "basil"
+    ]
+  },
+  {
+    "title": "Tofu Salad",
+    "ingredients": [
+      "tofu",
+      "tempeh",
+      "kale",
+      "vinegar",
+      "pesto"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tofu and other ingredients.",
+      "Cook tempeh, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tofu"
+    ]
+  },
+  {
+    "title": "Orange Bowl",
+    "ingredients": [
+      "orange",
+      "bell pepper",
+      "paprika",
+      "chard",
+      "coriander"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook bell pepper, paprika until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "title": "Honey Medley",
+    "ingredients": [
+      "honey",
+      "curry powder",
+      "garlic powder",
+      "onion powder",
+      "apple",
+      "sweet potato",
+      "parmesan"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook curry powder, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Chili powder Medley",
+    "ingredients": [
+      "chili powder",
+      "basil",
+      "banana",
+      "garlic",
+      "mayonnaise"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook basil, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ]
+  },
+  {
+    "title": "Black beans Salad",
+    "ingredients": [
+      "black beans",
+      "onion",
+      "salmon",
+      "garlic",
+      "ground beef",
+      "couscous",
+      "tofu"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook onion, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ]
+  },
+  {
+    "title": "Lettuce Medley",
+    "ingredients": [
+      "lettuce",
+      "salsa",
+      "kidney beans",
+      "eggplant",
+      "parsley"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook salsa, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ]
+  },
+  {
+    "title": "Green beans Medley",
+    "ingredients": [
+      "green beans",
+      "cinnamon",
+      "lemon",
+      "ginger",
+      "couscous"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook cinnamon, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ]
+  },
+  {
+    "title": "Tempeh Delight",
+    "ingredients": [
+      "tempeh",
+      "chickpeas",
+      "tortillas",
+      "spinach",
+      "mayonnaise",
+      "tuna",
+      "pork"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook chickpeas, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Stock Saut\u00e9",
+    "ingredients": [
+      "stock",
+      "kidney beans",
+      "salsa",
+      "vinegar"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the stock and other ingredients.",
+      "Cook kidney beans, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "stock"
+    ]
+  },
+  {
+    "title": "Yogurt Medley",
+    "ingredients": [
+      "yogurt",
+      "honey",
+      "tempeh",
+      "carrot",
+      "avocado"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook honey, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ]
+  },
+  {
+    "title": "Turkey Delight",
+    "ingredients": [
+      "turkey",
+      "rice",
+      "kale",
+      "mushroom",
+      "garlic powder",
+      "pinto beans",
+      "chard"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the turkey and other ingredients.",
+      "Cook rice, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turkey"
+    ]
+  },
+  {
+    "title": "Spring onion Medley",
+    "ingredients": [
+      "spring onion",
+      "parmesan",
+      "chili flakes",
+      "ground beef"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook parmesan, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ]
+  },
+  {
+    "title": "Parsley Bowl",
+    "ingredients": [
+      "parsley",
+      "pesto",
+      "mozzarella",
+      "duck",
+      "onion powder",
+      "cilantro",
+      "butter"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook pesto, mozzarella until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ]
+  },
+  {
+    "title": "Asparagus Salad",
+    "ingredients": [
+      "asparagus",
+      "seaweed",
+      "salsa",
+      "cucumber"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook seaweed, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ]
+  },
+  {
+    "title": "Spinach Special",
+    "ingredients": [
+      "spinach",
+      "peas",
+      "turmeric",
+      "quinoa",
+      "cumin",
+      "celery"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook peas, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ]
+  },
+  {
+    "title": "Carrot Special",
+    "ingredients": [
+      "carrot",
+      "ground beef",
+      "cilantro",
+      "lentils",
+      "tempeh"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the carrot and other ingredients.",
+      "Cook ground beef, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "carrot"
+    ]
+  },
+  {
+    "title": "Broccoli Medley",
+    "ingredients": [
+      "broccoli",
+      "garlic",
+      "vinegar",
+      "onion powder",
+      "pine nuts",
+      "chili powder"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook garlic, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ]
+  },
+  {
+    "title": "Turmeric Salad",
+    "ingredients": [
+      "turmeric",
+      "banana",
+      "salmon",
+      "tuna",
+      "garlic powder",
+      "broccoli"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the turmeric and other ingredients.",
+      "Cook banana, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turmeric"
+    ]
+  },
+  {
+    "title": "Honey Salad",
+    "ingredients": [
+      "honey",
+      "sweet potato",
+      "feta",
+      "mayonnaise",
+      "carrot",
+      "celery"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook sweet potato, feta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Garlic Saut\u00e9",
+    "ingredients": [
+      "garlic",
+      "lentils",
+      "honey",
+      "turkey",
+      "curry powder",
+      "cheese",
+      "carrot"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook lentils, honey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ]
+  },
+  {
+    "title": "Shrimp Skillet",
+    "ingredients": [
+      "shrimp",
+      "celery",
+      "sesame seeds",
+      "couscous",
+      "pepper",
+      "salt"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the shrimp and other ingredients.",
+      "Cook celery, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "shrimp"
+    ]
+  },
+  {
+    "title": "Beef Special",
+    "ingredients": [
+      "beef",
+      "spring onion",
+      "garlic powder",
+      "stock",
+      "basil",
+      "lamb",
+      "salmon"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook spring onion, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "parmesan",
+      "sweet potato",
+      "carrot",
+      "eggplant",
+      "duck",
+      "chili powder"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook parmesan, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Cheese Skillet",
+    "ingredients": [
+      "cheese",
+      "asparagus",
+      "tomato",
+      "potato",
+      "chickpeas",
+      "egg"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook asparagus, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ]
+  },
+  {
+    "title": "Egg Salad",
+    "ingredients": [
+      "egg",
+      "soy sauce",
+      "salt",
+      "pepper",
+      "feta",
+      "bread"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook soy sauce, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "title": "Feta Special",
+    "ingredients": [
+      "feta",
+      "salsa",
+      "cumin",
+      "basil",
+      "pine nuts",
+      "eggplant"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook salsa, cumin until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ]
+  },
+  {
+    "title": "Celery Delight",
+    "ingredients": [
+      "celery",
+      "onion",
+      "seaweed",
+      "chicken"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the celery and other ingredients.",
+      "Cook onion, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "celery"
+    ]
+  },
+  {
+    "title": "Butter Salad",
+    "ingredients": [
+      "butter",
+      "lettuce",
+      "rice",
+      "potato",
+      "quinoa"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the butter and other ingredients.",
+      "Cook lettuce, rice until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "butter"
+    ]
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "couscous",
+      "carrot",
+      "chili powder",
+      "cumin"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook couscous, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Chili powder Bowl",
+    "ingredients": [
+      "chili powder",
+      "lime",
+      "stock",
+      "chickpeas",
+      "avocado",
+      "cilantro"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the chili powder and other ingredients.",
+      "Cook lime, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chili powder"
+    ]
+  },
+  {
+    "title": "Kidney beans Bowl",
+    "ingredients": [
+      "kidney beans",
+      "pork",
+      "salt",
+      "carrot",
+      "broccoli",
+      "green beans"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the kidney beans and other ingredients.",
+      "Cook pork, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kidney beans"
+    ]
+  },
+  {
+    "title": "Lettuce Salad",
+    "ingredients": [
+      "lettuce",
+      "soba noodles",
+      "potato",
+      "broccoli"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the lettuce and other ingredients.",
+      "Cook soba noodles, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lettuce"
+    ]
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "spinach",
+      "pasta",
+      "paprika"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook spinach, pasta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "title": "Mayonnaise Medley",
+    "ingredients": [
+      "mayonnaise",
+      "asparagus",
+      "parsley",
+      "avocado",
+      "yogurt",
+      "black beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the mayonnaise and other ingredients.",
+      "Cook asparagus, parsley until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mayonnaise"
+    ]
+  },
+  {
+    "title": "Lime Bowl",
+    "ingredients": [
+      "lime",
+      "salt",
+      "cod",
+      "cream",
+      "salsa",
+      "pine nuts"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the lime and other ingredients.",
+      "Cook salt, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lime"
+    ]
+  },
+  {
+    "title": "Spring onion Salad",
+    "ingredients": [
+      "spring onion",
+      "egg",
+      "green beans",
+      "pork"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the spring onion and other ingredients.",
+      "Cook egg, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spring onion"
+    ]
+  },
+  {
+    "title": "Orange Saut\u00e9",
+    "ingredients": [
+      "orange",
+      "lime",
+      "pine nuts",
+      "pasta",
+      "pinto beans",
+      "banana",
+      "tofu"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook lime, pine nuts until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "title": "Bell pepper Saut\u00e9",
+    "ingredients": [
+      "bell pepper",
+      "turmeric",
+      "garlic",
+      "apple"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook turmeric, garlic until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ]
+  },
+  {
+    "title": "Apple Salad",
+    "ingredients": [
+      "apple",
+      "salsa",
+      "garlic powder",
+      "shrimp"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook salsa, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ]
+  },
+  {
+    "title": "Cheese Delight",
+    "ingredients": [
+      "cheese",
+      "pasta",
+      "kale",
+      "pesto",
+      "duck"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook pasta, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ]
+  },
+  {
+    "title": "Honey Bowl",
+    "ingredients": [
+      "honey",
+      "teriyaki sauce",
+      "peas",
+      "stock",
+      "orange",
+      "seaweed"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook teriyaki sauce, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Quinoa Bowl",
+    "ingredients": [
+      "quinoa",
+      "garlic powder",
+      "curry powder",
+      "mayonnaise",
+      "teriyaki sauce"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook garlic powder, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ]
+  },
+  {
+    "title": "Cumin Salad",
+    "ingredients": [
+      "cumin",
+      "kidney beans",
+      "potato",
+      "ground beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook kidney beans, potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ]
+  },
+  {
+    "title": "Lemon Special",
+    "ingredients": [
+      "lemon",
+      "mozzarella",
+      "sesame seeds",
+      "orange"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the lemon and other ingredients.",
+      "Cook mozzarella, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lemon"
+    ]
+  },
+  {
+    "title": "Turmeric Salad",
+    "ingredients": [
+      "turmeric",
+      "garlic",
+      "bread",
+      "couscous",
+      "peas",
+      "orange",
+      "coconut milk"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the turmeric and other ingredients.",
+      "Cook garlic, bread until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "turmeric"
+    ]
+  },
+  {
+    "title": "Onion Saut\u00e9",
+    "ingredients": [
+      "onion",
+      "salmon",
+      "broccoli",
+      "rice",
+      "cucumber",
+      "black beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook salmon, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ]
+  },
+  {
+    "title": "Pine nuts Salad",
+    "ingredients": [
+      "pine nuts",
+      "honey",
+      "cinnamon",
+      "pinto beans"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook honey, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ]
+  },
+  {
+    "title": "Cod Medley",
+    "ingredients": [
+      "cod",
+      "coriander",
+      "cilantro",
+      "beef",
+      "onion",
+      "tortillas",
+      "soba noodles"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook coriander, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ]
+  },
+  {
+    "title": "Cilantro Medley",
+    "ingredients": [
+      "cilantro",
+      "rice",
+      "vinegar",
+      "parsley",
+      "turmeric",
+      "couscous",
+      "ginger"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cilantro and other ingredients.",
+      "Cook rice, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cilantro"
+    ]
+  },
+  {
+    "title": "Black beans Skillet",
+    "ingredients": [
+      "black beans",
+      "parsley",
+      "mayonnaise",
+      "feta",
+      "cinnamon",
+      "asparagus"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the black beans and other ingredients.",
+      "Cook parsley, mayonnaise until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "black beans"
+    ]
+  },
+  {
+    "title": "Apple Bowl",
+    "ingredients": [
+      "apple",
+      "kale",
+      "carrot",
+      "eggplant",
+      "basil",
+      "soba noodles"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook kale, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ]
+  },
+  {
+    "title": "Sesame seeds Special",
+    "ingredients": [
+      "sesame seeds",
+      "chili flakes",
+      "pesto",
+      "lettuce",
+      "soy sauce"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook chili flakes, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Sesame seeds Bowl",
+    "ingredients": [
+      "sesame seeds",
+      "tofu",
+      "turmeric",
+      "cinnamon",
+      "couscous"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook tofu, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Quinoa Skillet",
+    "ingredients": [
+      "quinoa",
+      "lamb",
+      "soba noodles",
+      "chili powder",
+      "kale"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook lamb, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ]
+  },
+  {
+    "title": "Bread Delight",
+    "ingredients": [
+      "bread",
+      "orange",
+      "teriyaki sauce",
+      "cream",
+      "salt"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook orange, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ]
+  },
+  {
+    "title": "Quinoa Skillet",
+    "ingredients": [
+      "quinoa",
+      "sweet potato",
+      "parmesan",
+      "sesame seeds",
+      "onion powder"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook sweet potato, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ]
+  },
+  {
+    "title": "Soba noodles Delight",
+    "ingredients": [
+      "soba noodles",
+      "turmeric",
+      "ground beef",
+      "ground turkey",
+      "lemon",
+      "mozzarella",
+      "sweet potato"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the soba noodles and other ingredients.",
+      "Cook turmeric, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soba noodles"
+    ]
+  },
+  {
+    "title": "Mayonnaise Skillet",
+    "ingredients": [
+      "mayonnaise",
+      "spinach",
+      "chard",
+      "sesame seeds",
+      "carrot",
+      "ginger",
+      "salsa"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the mayonnaise and other ingredients.",
+      "Cook spinach, chard until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mayonnaise"
+    ]
+  },
+  {
+    "title": "Pepper Medley",
+    "ingredients": [
+      "pepper",
+      "avocado",
+      "soy sauce",
+      "lettuce",
+      "chicken",
+      "couscous",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the pepper and other ingredients.",
+      "Cook avocado, soy sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pepper"
+    ]
+  },
+  {
+    "title": "Yogurt Delight",
+    "ingredients": [
+      "yogurt",
+      "eggplant",
+      "cream",
+      "chili powder"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook eggplant, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ]
+  },
+  {
+    "title": "Salmon Skillet",
+    "ingredients": [
+      "salmon",
+      "carrot",
+      "lamb",
+      "stock",
+      "garlic",
+      "olive oil"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook carrot, lamb until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ]
+  },
+  {
+    "title": "Coconut milk Special",
+    "ingredients": [
+      "coconut milk",
+      "cinnamon",
+      "soba noodles",
+      "vinegar"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook cinnamon, soba noodles until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ]
+  },
+  {
+    "title": "Beef Delight",
+    "ingredients": [
+      "beef",
+      "milk",
+      "cilantro",
+      "tomato",
+      "feta",
+      "bell pepper"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook milk, cilantro until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Couscous Delight",
+    "ingredients": [
+      "couscous",
+      "tortillas",
+      "eggplant",
+      "milk",
+      "carrot",
+      "zucchini"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the couscous and other ingredients.",
+      "Cook tortillas, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "couscous"
+    ]
+  },
+  {
+    "title": "Cucumber Bowl",
+    "ingredients": [
+      "cucumber",
+      "lime",
+      "coriander",
+      "sweet potato",
+      "shrimp",
+      "pasta",
+      "parsley"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook lime, coriander until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ]
+  },
+  {
+    "title": "Pasta Special",
+    "ingredients": [
+      "pasta",
+      "tuna",
+      "broccoli",
+      "coconut milk",
+      "lime",
+      "celery"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook tuna, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ]
+  },
+  {
+    "title": "Ground beef Special",
+    "ingredients": [
+      "ground beef",
+      "pepper",
+      "cinnamon",
+      "bread",
+      "coconut milk",
+      "olive oil",
+      "tomato"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the ground beef and other ingredients.",
+      "Cook pepper, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground beef"
+    ]
+  },
+  {
+    "title": "Soy sauce Saut\u00e9",
+    "ingredients": [
+      "soy sauce",
+      "soba noodles",
+      "olive oil",
+      "chard"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the soy sauce and other ingredients.",
+      "Cook soba noodles, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soy sauce"
+    ]
+  },
+  {
+    "title": "Parsley Bowl",
+    "ingredients": [
+      "parsley",
+      "lentils",
+      "basil",
+      "tofu",
+      "green beans"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook lentils, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ]
+  },
+  {
+    "title": "Pesto Bowl",
+    "ingredients": [
+      "pesto",
+      "onion",
+      "broccoli",
+      "cucumber",
+      "beef"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the pesto and other ingredients.",
+      "Cook onion, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pesto"
+    ]
+  },
+  {
+    "title": "Sesame seeds Skillet",
+    "ingredients": [
+      "sesame seeds",
+      "parsley",
+      "pepper",
+      "kidney beans",
+      "chickpeas",
+      "onion powder",
+      "butter"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook parsley, pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Bell pepper Saut\u00e9",
+    "ingredients": [
+      "bell pepper",
+      "potato",
+      "tomato",
+      "chili powder"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the bell pepper and other ingredients.",
+      "Cook potato, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bell pepper"
+    ]
+  },
+  {
+    "title": "Egg Special",
+    "ingredients": [
+      "egg",
+      "green beans",
+      "curry powder",
+      "avocado",
+      "pepper"
+    ],
+    "time": "30 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook green beans, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "title": "Lentils Bowl",
+    "ingredients": [
+      "lentils",
+      "zucchini",
+      "duck",
+      "lettuce",
+      "lamb",
+      "pesto",
+      "chicken"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the lentils and other ingredients.",
+      "Cook zucchini, duck until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lentils"
+    ]
+  },
+  {
+    "title": "Onion Saut\u00e9",
+    "ingredients": [
+      "onion",
+      "pine nuts",
+      "avocado",
+      "feta",
+      "peas"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook pine nuts, avocado until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ]
+  },
+  {
+    "title": "Ginger Bowl",
+    "ingredients": [
+      "ginger",
+      "soy sauce",
+      "lemon",
+      "sesame seeds",
+      "turkey",
+      "lamb"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook soy sauce, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ]
+  },
+  {
+    "title": "Garlic powder Delight",
+    "ingredients": [
+      "garlic powder",
+      "carrot",
+      "spinach",
+      "cilantro",
+      "beef",
+      "cucumber",
+      "chard"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the garlic powder and other ingredients.",
+      "Cook carrot, spinach until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic powder"
+    ]
+  },
+  {
+    "title": "Salmon Skillet",
+    "ingredients": [
+      "salmon",
+      "soy sauce",
+      "milk",
+      "pinto beans",
+      "tomato",
+      "ground beef",
+      "honey"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook soy sauce, milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ]
+  },
+  {
+    "title": "Coconut milk Special",
+    "ingredients": [
+      "coconut milk",
+      "tortillas",
+      "ground beef",
+      "tomato",
+      "sesame seeds",
+      "cinnamon"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook tortillas, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ]
+  },
+  {
+    "title": "Green beans Salad",
+    "ingredients": [
+      "green beans",
+      "chili powder",
+      "chili flakes",
+      "coriander",
+      "parsley",
+      "egg"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook chili powder, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ]
+  },
+  {
+    "title": "Pinto beans Salad",
+    "ingredients": [
+      "pinto beans",
+      "teriyaki sauce",
+      "eggplant",
+      "garlic powder",
+      "duck",
+      "ground beef"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook teriyaki sauce, eggplant until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ]
+  },
+  {
+    "title": "Feta Saut\u00e9",
+    "ingredients": [
+      "feta",
+      "turkey",
+      "pasta",
+      "onion",
+      "bell pepper"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook turkey, pasta until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ]
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "pine nuts",
+      "salsa",
+      "mozzarella",
+      "garlic powder",
+      "egg"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook pine nuts, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "title": "Seaweed Special",
+    "ingredients": [
+      "seaweed",
+      "potato",
+      "celery",
+      "zucchini"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook potato, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ]
+  },
+  {
+    "title": "Parsley Delight",
+    "ingredients": [
+      "parsley",
+      "olive oil",
+      "pinto beans",
+      "shrimp",
+      "cod"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook olive oil, pinto beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ]
+  },
+  {
+    "title": "Salt Bowl",
+    "ingredients": [
+      "salt",
+      "tuna",
+      "butter",
+      "eggplant",
+      "pesto",
+      "salsa"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the salt and other ingredients.",
+      "Cook tuna, butter until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salt"
+    ]
+  },
+  {
+    "title": "Peas Bowl",
+    "ingredients": [
+      "peas",
+      "garlic",
+      "kale",
+      "honey",
+      "onion",
+      "tomato",
+      "orange"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the peas and other ingredients.",
+      "Cook garlic, kale until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "peas"
+    ]
+  },
+  {
+    "title": "Pinto beans Medley",
+    "ingredients": [
+      "pinto beans",
+      "pesto",
+      "salsa",
+      "shrimp",
+      "eggplant"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the pinto beans and other ingredients.",
+      "Cook pesto, salsa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pinto beans"
+    ]
+  },
+  {
+    "title": "Asparagus Salad",
+    "ingredients": [
+      "asparagus",
+      "avocado",
+      "sesame seeds",
+      "tomato",
+      "salt"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the asparagus and other ingredients.",
+      "Cook avocado, sesame seeds until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "asparagus"
+    ]
+  },
+  {
+    "title": "Garlic Saut\u00e9",
+    "ingredients": [
+      "garlic",
+      "peas",
+      "cream",
+      "onion powder",
+      "celery"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook peas, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ]
+  },
+  {
+    "title": "Teriyaki sauce Special",
+    "ingredients": [
+      "teriyaki sauce",
+      "salsa",
+      "seaweed",
+      "yogurt"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the teriyaki sauce and other ingredients.",
+      "Cook salsa, seaweed until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "teriyaki sauce"
+    ]
+  },
+  {
+    "title": "Paprika Delight",
+    "ingredients": [
+      "paprika",
+      "shrimp",
+      "cheese",
+      "duck",
+      "cod"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook shrimp, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ]
+  },
+  {
+    "title": "Salmon Salad",
+    "ingredients": [
+      "salmon",
+      "banana",
+      "mushroom",
+      "pine nuts",
+      "garlic",
+      "tempeh",
+      "tortillas"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the salmon and other ingredients.",
+      "Cook banana, mushroom until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "salmon"
+    ]
+  },
+  {
+    "title": "Beef Saut\u00e9",
+    "ingredients": [
+      "beef",
+      "tofu",
+      "orange",
+      "black beans"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook tofu, orange until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Ground turkey Medley",
+    "ingredients": [
+      "ground turkey",
+      "couscous",
+      "pesto",
+      "pork",
+      "green beans",
+      "garlic powder",
+      "tortillas"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the ground turkey and other ingredients.",
+      "Cook couscous, pesto until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground turkey"
+    ]
+  },
+  {
+    "title": "Cucumber Salad",
+    "ingredients": [
+      "cucumber",
+      "apple",
+      "coconut milk",
+      "chili flakes",
+      "cumin"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook apple, coconut milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ]
+  },
+  {
+    "title": "Broccoli Salad",
+    "ingredients": [
+      "broccoli",
+      "chard",
+      "tortillas",
+      "paprika",
+      "chili flakes"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook chard, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ]
+  },
+  {
+    "title": "Cheese Bowl",
+    "ingredients": [
+      "cheese",
+      "sweet potato",
+      "tempeh",
+      "pine nuts",
+      "potato",
+      "chickpeas",
+      "onion powder"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cheese and other ingredients.",
+      "Cook sweet potato, tempeh until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cheese"
+    ]
+  },
+  {
+    "title": "Tomato Skillet",
+    "ingredients": [
+      "tomato",
+      "honey",
+      "pork",
+      "asparagus"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tomato and other ingredients.",
+      "Cook honey, pork until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tomato"
+    ]
+  },
+  {
+    "title": "Onion Special",
+    "ingredients": [
+      "onion",
+      "soy sauce",
+      "green beans",
+      "couscous",
+      "tofu",
+      "salmon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the onion and other ingredients.",
+      "Cook soy sauce, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "onion"
+    ]
+  },
+  {
+    "title": "Beef Special",
+    "ingredients": [
+      "beef",
+      "mayonnaise",
+      "orange",
+      "cheese",
+      "paprika",
+      "ground turkey",
+      "cinnamon"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the beef and other ingredients.",
+      "Cook mayonnaise, orange until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "beef"
+    ]
+  },
+  {
+    "title": "Carrot Bowl",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "stock",
+      "olive oil",
+      "mozzarella",
+      "butter"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the carrot and other ingredients.",
+      "Cook tofu, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "carrot"
+    ]
+  },
+  {
+    "title": "Potato Special",
+    "ingredients": [
+      "potato",
+      "lemon",
+      "lime",
+      "carrot",
+      "paprika"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook lemon, lime until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ]
+  },
+  {
+    "title": "Tuna Bowl",
+    "ingredients": [
+      "tuna",
+      "lettuce",
+      "asparagus",
+      "potato"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook lettuce, asparagus until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ]
+  },
+  {
+    "title": "Teriyaki sauce Medley",
+    "ingredients": [
+      "teriyaki sauce",
+      "salmon",
+      "onion",
+      "basil"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the teriyaki sauce and other ingredients.",
+      "Cook salmon, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "teriyaki sauce"
+    ]
+  },
+  {
+    "title": "Avocado Medley",
+    "ingredients": [
+      "avocado",
+      "green beans",
+      "broccoli",
+      "beef",
+      "bread",
+      "garlic powder"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook green beans, broccoli until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ]
+  },
+  {
+    "title": "Soy sauce Saut\u00e9",
+    "ingredients": [
+      "soy sauce",
+      "paprika",
+      "cream",
+      "pine nuts"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the soy sauce and other ingredients.",
+      "Cook paprika, cream until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "soy sauce"
+    ]
+  },
+  {
+    "title": "Cream Delight",
+    "ingredients": [
+      "cream",
+      "onion powder",
+      "tortillas",
+      "lamb",
+      "avocado"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook onion powder, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "title": "Chard Salad",
+    "ingredients": [
+      "chard",
+      "tomato",
+      "salt",
+      "cod"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook tomato, salt until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ]
+  },
+  {
+    "title": "Paprika Special",
+    "ingredients": [
+      "paprika",
+      "mushroom",
+      "cinnamon",
+      "carrot",
+      "stock"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the paprika and other ingredients.",
+      "Cook mushroom, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "paprika"
+    ]
+  },
+  {
+    "title": "Lamb Saut\u00e9",
+    "ingredients": [
+      "lamb",
+      "mushroom",
+      "lemon",
+      "honey",
+      "cheese",
+      "tempeh"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lamb and other ingredients.",
+      "Cook mushroom, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lamb"
+    ]
+  },
+  {
+    "title": "Cod Skillet",
+    "ingredients": [
+      "cod",
+      "shrimp",
+      "peas",
+      "chili powder",
+      "egg",
+      "cucumber",
+      "mozzarella"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook shrimp, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ]
+  },
+  {
+    "title": "Cod Special",
+    "ingredients": [
+      "cod",
+      "yogurt",
+      "banana",
+      "pinto beans"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the cod and other ingredients.",
+      "Cook yogurt, banana until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cod"
+    ]
+  },
+  {
+    "title": "Chard Delight",
+    "ingredients": [
+      "chard",
+      "chili powder",
+      "kidney beans",
+      "tomato",
+      "honey",
+      "rice"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the chard and other ingredients.",
+      "Cook chili powder, kidney beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chard"
+    ]
+  },
+  {
+    "title": "Tortillas Salad",
+    "ingredients": [
+      "tortillas",
+      "soba noodles",
+      "celery",
+      "banana",
+      "yogurt",
+      "cilantro",
+      "onion powder"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tortillas and other ingredients.",
+      "Cook soba noodles, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tortillas"
+    ]
+  },
+  {
+    "title": "Garlic Delight",
+    "ingredients": [
+      "garlic",
+      "cucumber",
+      "butter",
+      "basil",
+      "sweet potato"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook cucumber, butter until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ]
+  },
+  {
+    "title": "Vinegar Delight",
+    "ingredients": [
+      "vinegar",
+      "paprika",
+      "bell pepper",
+      "mushroom"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the vinegar and other ingredients.",
+      "Cook paprika, bell pepper until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "vinegar"
+    ]
+  },
+  {
+    "title": "Parsley Special",
+    "ingredients": [
+      "parsley",
+      "kale",
+      "ground beef",
+      "green beans",
+      "tomato",
+      "tuna",
+      "feta"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the parsley and other ingredients.",
+      "Cook kale, ground beef until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "parsley"
+    ]
+  },
+  {
+    "title": "Chicken Delight",
+    "ingredients": [
+      "chicken",
+      "kidney beans",
+      "cheese",
+      "apple",
+      "mozzarella"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the chicken and other ingredients.",
+      "Cook kidney beans, cheese until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "chicken"
+    ]
+  },
+  {
+    "title": "Honey Special",
+    "ingredients": [
+      "honey",
+      "cheese",
+      "parmesan",
+      "seaweed",
+      "lamb",
+      "tortillas",
+      "soba noodles"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook cheese, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Cream Bowl",
+    "ingredients": [
+      "cream",
+      "salt",
+      "chickpeas",
+      "lamb"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook salt, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "title": "Broccoli Bowl",
+    "ingredients": [
+      "broccoli",
+      "kidney beans",
+      "peas",
+      "bread"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the broccoli and other ingredients.",
+      "Cook kidney beans, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "broccoli"
+    ]
+  },
+  {
+    "title": "Banana Salad",
+    "ingredients": [
+      "banana",
+      "bread",
+      "basil",
+      "bell pepper",
+      "chili powder",
+      "chicken",
+      "quinoa"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the banana and other ingredients.",
+      "Cook bread, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "banana"
+    ]
+  },
+  {
+    "title": "Duck Delight",
+    "ingredients": [
+      "duck",
+      "pasta",
+      "basil",
+      "chickpeas",
+      "pine nuts",
+      "beef",
+      "sweet potato"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the duck and other ingredients.",
+      "Cook pasta, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "duck"
+    ]
+  },
+  {
+    "title": "Cream Special",
+    "ingredients": [
+      "cream",
+      "feta",
+      "parmesan",
+      "turmeric"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cream and other ingredients.",
+      "Cook feta, parmesan until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cream"
+    ]
+  },
+  {
+    "title": "Kale Special",
+    "ingredients": [
+      "kale",
+      "pork",
+      "stock",
+      "lemon"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the kale and other ingredients.",
+      "Cook pork, stock until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "kale"
+    ]
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "black beans",
+      "cinnamon",
+      "ground turkey",
+      "garlic powder"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook black beans, cinnamon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ]
+  },
+  {
+    "title": "Ground beef Salad",
+    "ingredients": [
+      "ground beef",
+      "kidney beans",
+      "quinoa",
+      "cumin",
+      "feta",
+      "tuna",
+      "lentils"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the ground beef and other ingredients.",
+      "Cook kidney beans, quinoa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ground beef"
+    ]
+  },
+  {
+    "title": "Cumin Salad",
+    "ingredients": [
+      "cumin",
+      "egg",
+      "celery",
+      "parsley",
+      "spinach",
+      "salsa",
+      "eggplant"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the cumin and other ingredients.",
+      "Cook egg, celery until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cumin"
+    ]
+  },
+  {
+    "title": "Tortillas Saut\u00e9",
+    "ingredients": [
+      "tortillas",
+      "carrot",
+      "onion powder",
+      "coriander",
+      "lime",
+      "honey",
+      "potato"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the tortillas and other ingredients.",
+      "Cook carrot, onion powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tortillas"
+    ]
+  },
+  {
+    "title": "Peas Delight",
+    "ingredients": [
+      "peas",
+      "tofu",
+      "onion",
+      "sweet potato",
+      "eggplant"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the peas and other ingredients.",
+      "Cook tofu, onion until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "peas"
+    ]
+  },
+  {
+    "title": "Orange Delight",
+    "ingredients": [
+      "orange",
+      "soba noodles",
+      "tofu",
+      "bread",
+      "honey",
+      "mayonnaise"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the orange and other ingredients.",
+      "Cook soba noodles, tofu until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "orange"
+    ]
+  },
+  {
+    "title": "Feta Skillet",
+    "ingredients": [
+      "feta",
+      "cucumber",
+      "cod",
+      "pasta"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the feta and other ingredients.",
+      "Cook cucumber, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "feta"
+    ]
+  },
+  {
+    "title": "Bread Delight",
+    "ingredients": [
+      "bread",
+      "paprika",
+      "basil",
+      "cilantro",
+      "tomato"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook paprika, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ]
+  },
+  {
+    "title": "Pine nuts Medley",
+    "ingredients": [
+      "pine nuts",
+      "teriyaki sauce",
+      "chili powder",
+      "spinach"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook teriyaki sauce, chili powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ]
+  },
+  {
+    "title": "Lamb Saut\u00e9",
+    "ingredients": [
+      "lamb",
+      "bread",
+      "cucumber",
+      "teriyaki sauce",
+      "coriander",
+      "quinoa"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the lamb and other ingredients.",
+      "Cook bread, cucumber until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "lamb"
+    ]
+  },
+  {
+    "title": "Coconut milk Salad",
+    "ingredients": [
+      "coconut milk",
+      "ground beef",
+      "basil",
+      "cod",
+      "cream",
+      "pesto",
+      "milk"
+    ],
+    "time": "25 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the coconut milk and other ingredients.",
+      "Cook ground beef, basil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coconut milk"
+    ]
+  },
+  {
+    "title": "Coriander Medley",
+    "ingredients": [
+      "coriander",
+      "celery",
+      "peas",
+      "lime"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the coriander and other ingredients.",
+      "Cook celery, peas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "coriander"
+    ]
+  },
+  {
+    "title": "Ginger Medley",
+    "ingredients": [
+      "ginger",
+      "onion powder",
+      "milk",
+      "potato",
+      "tempeh",
+      "shrimp"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook onion powder, milk until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ]
+  },
+  {
+    "title": "Apple Salad",
+    "ingredients": [
+      "apple",
+      "seaweed",
+      "olive oil",
+      "lentils",
+      "mayonnaise",
+      "milk"
+    ],
+    "time": "40 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the apple and other ingredients.",
+      "Cook seaweed, olive oil until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "apple"
+    ]
+  },
+  {
+    "title": "Mushroom Bowl",
+    "ingredients": [
+      "mushroom",
+      "broccoli",
+      "chickpeas",
+      "tomato"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook broccoli, chickpeas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ]
+  },
+  {
+    "title": "Egg Medley",
+    "ingredients": [
+      "egg",
+      "cinnamon",
+      "green beans",
+      "ground beef"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook cinnamon, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "title": "Potato Medley",
+    "ingredients": [
+      "potato",
+      "mushroom",
+      "garlic powder",
+      "salt",
+      "ground beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the potato and other ingredients.",
+      "Cook mushroom, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "potato"
+    ]
+  },
+  {
+    "title": "Cucumber Salad",
+    "ingredients": [
+      "cucumber",
+      "paprika",
+      "vinegar",
+      "quinoa",
+      "black beans"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the cucumber and other ingredients.",
+      "Cook paprika, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cucumber"
+    ]
+  },
+  {
+    "title": "Spinach Delight",
+    "ingredients": [
+      "spinach",
+      "celery",
+      "green beans",
+      "spring onion",
+      "chickpeas",
+      "beef"
+    ],
+    "time": "20 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook celery, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ]
+  },
+  {
+    "title": "Couscous Salad",
+    "ingredients": [
+      "couscous",
+      "pasta",
+      "curry powder",
+      "peas",
+      "egg",
+      "chili powder"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the couscous and other ingredients.",
+      "Cook pasta, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "couscous"
+    ]
+  },
+  {
+    "title": "Ginger Salad",
+    "ingredients": [
+      "ginger",
+      "black beans",
+      "chili flakes",
+      "pasta"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook black beans, chili flakes until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ]
+  },
+  {
+    "title": "Tempeh Skillet",
+    "ingredients": [
+      "tempeh",
+      "mayonnaise",
+      "sweet potato",
+      "turkey",
+      "lamb"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook mayonnaise, sweet potato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Tempeh Salad",
+    "ingredients": [
+      "tempeh",
+      "cumin",
+      "egg",
+      "tortillas",
+      "tuna"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the tempeh and other ingredients.",
+      "Cook cumin, egg until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tempeh"
+    ]
+  },
+  {
+    "title": "Seaweed Bowl",
+    "ingredients": [
+      "seaweed",
+      "banana",
+      "quinoa",
+      "olive oil",
+      "cinnamon",
+      "soba noodles"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the seaweed and other ingredients.",
+      "Cook banana, quinoa until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "seaweed"
+    ]
+  },
+  {
+    "title": "Yogurt Bowl",
+    "ingredients": [
+      "yogurt",
+      "cheese",
+      "carrot",
+      "tuna",
+      "onion powder",
+      "salmon",
+      "spinach"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook cheese, carrot until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ]
+  },
+  {
+    "title": "Avocado Bowl",
+    "ingredients": [
+      "avocado",
+      "salsa",
+      "salmon",
+      "salt"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook salsa, salmon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ]
+  },
+  {
+    "title": "Green beans Delight",
+    "ingredients": [
+      "green beans",
+      "broccoli",
+      "curry powder",
+      "pork"
+    ],
+    "time": "25 minutes",
+    "diets": [
+      "vegetarian",
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the green beans and other ingredients.",
+      "Cook broccoli, curry powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "green beans"
+    ]
+  },
+  {
+    "title": "Yogurt Saut\u00e9",
+    "ingredients": [
+      "yogurt",
+      "couscous",
+      "garlic powder",
+      "mushroom",
+      "chard",
+      "sweet potato",
+      "soy sauce"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the yogurt and other ingredients.",
+      "Cook couscous, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "yogurt"
+    ]
+  },
+  {
+    "title": "Honey Skillet",
+    "ingredients": [
+      "honey",
+      "kidney beans",
+      "mushroom",
+      "pesto",
+      "broccoli",
+      "cheese",
+      "spring onion"
+    ],
+    "time": "20 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the honey and other ingredients.",
+      "Cook kidney beans, mushroom until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "honey"
+    ]
+  },
+  {
+    "title": "Avocado Special",
+    "ingredients": [
+      "avocado",
+      "sesame seeds",
+      "chili powder",
+      "soba noodles",
+      "garlic",
+      "rice"
+    ],
+    "time": "40 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the avocado and other ingredients.",
+      "Cook sesame seeds, chili powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "avocado"
+    ]
+  },
+  {
+    "title": "Quinoa Special",
+    "ingredients": [
+      "quinoa",
+      "soba noodles",
+      "tortillas",
+      "feta"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the quinoa and other ingredients.",
+      "Cook soba noodles, tortillas until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "quinoa"
+    ]
+  },
+  {
+    "title": "Garlic Salad",
+    "ingredients": [
+      "garlic",
+      "chickpeas",
+      "lemon",
+      "celery",
+      "zucchini"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the garlic and other ingredients.",
+      "Cook chickpeas, lemon until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "garlic"
+    ]
+  },
+  {
+    "title": "Ginger Saut\u00e9",
+    "ingredients": [
+      "ginger",
+      "lettuce",
+      "cod",
+      "spring onion"
+    ],
+    "time": "45 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the ginger and other ingredients.",
+      "Cook lettuce, cod until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "ginger"
+    ]
+  },
+  {
+    "title": "Bread Saut\u00e9",
+    "ingredients": [
+      "bread",
+      "banana",
+      "pine nuts",
+      "couscous",
+      "cumin",
+      "cinnamon",
+      "ground beef"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the bread and other ingredients.",
+      "Cook banana, pine nuts until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "bread"
+    ]
+  },
+  {
+    "title": "Sesame seeds Saut\u00e9",
+    "ingredients": [
+      "sesame seeds",
+      "ground turkey",
+      "tomato",
+      "butter",
+      "olive oil",
+      "bell pepper",
+      "lamb"
+    ],
+    "time": "35 minutes",
+    "diets": [
+      "kosher"
+    ],
+    "steps": [
+      "Prepare the sesame seeds and other ingredients.",
+      "Cook ground turkey, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "sesame seeds"
+    ]
+  },
+  {
+    "title": "Egg Saut\u00e9",
+    "ingredients": [
+      "egg",
+      "tempeh",
+      "vinegar",
+      "chili flakes",
+      "lime",
+      "chickpeas",
+      "ginger"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the egg and other ingredients.",
+      "Cook tempeh, vinegar until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "egg"
+    ]
+  },
+  {
+    "title": "Celery Special",
+    "ingredients": [
+      "celery",
+      "honey",
+      "green beans",
+      "pasta"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the celery and other ingredients.",
+      "Cook honey, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "celery"
+    ]
+  },
+  {
+    "title": "Mushroom Delight",
+    "ingredients": [
+      "mushroom",
+      "paprika",
+      "tomato",
+      "potato",
+      "lettuce"
+    ],
+    "time": "35 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the mushroom and other ingredients.",
+      "Cook paprika, tomato until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "mushroom"
+    ]
+  },
+  {
+    "title": "Tuna Delight",
+    "ingredients": [
+      "tuna",
+      "onion powder",
+      "garlic powder",
+      "shrimp",
+      "sesame seeds",
+      "lettuce"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "vegetarian"
+    ],
+    "steps": [
+      "Prepare the tuna and other ingredients.",
+      "Cook onion powder, garlic powder until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "tuna"
+    ]
+  },
+  {
+    "title": "Cinnamon Saut\u00e9",
+    "ingredients": [
+      "cinnamon",
+      "garlic",
+      "green beans",
+      "avocado",
+      "shrimp",
+      "spinach"
+    ],
+    "time": "10 minutes",
+    "diets": [],
+    "steps": [
+      "Prepare the cinnamon and other ingredients.",
+      "Cook garlic, green beans until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "cinnamon"
+    ]
+  },
+  {
+    "title": "Spinach Delight",
+    "ingredients": [
+      "spinach",
+      "coriander",
+      "teriyaki sauce",
+      "bell pepper",
+      "tempeh",
+      "quinoa",
+      "beef"
+    ],
+    "time": "15 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the spinach and other ingredients.",
+      "Cook coriander, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "spinach"
+    ]
+  },
+  {
+    "title": "Pasta Saut\u00e9",
+    "ingredients": [
+      "pasta",
+      "parmesan",
+      "honey",
+      "pepper",
+      "shrimp"
+    ],
+    "time": "30 minutes",
+    "diets": [
+      "halal"
+    ],
+    "steps": [
+      "Prepare the pasta and other ingredients.",
+      "Cook parmesan, honey until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pasta"
+    ]
+  },
+  {
+    "title": "Milk Bowl",
+    "ingredients": [
+      "milk",
+      "curry powder",
+      "turmeric",
+      "parsley",
+      "shrimp"
+    ],
+    "time": "45 minutes",
+    "diets": [
+      "vegan"
+    ],
+    "steps": [
+      "Prepare the milk and other ingredients.",
+      "Cook curry powder, turmeric until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "milk"
+    ]
+  },
+  {
+    "title": "Pine nuts Skillet",
+    "ingredients": [
+      "pine nuts",
+      "black beans",
+      "teriyaki sauce",
+      "celery"
+    ],
+    "time": "10 minutes",
+    "diets": [
+      "pescatarian"
+    ],
+    "steps": [
+      "Prepare the pine nuts and other ingredients.",
+      "Cook black beans, teriyaki sauce until ready.",
+      "Combine ingredients and serve."
+    ],
+    "tags": [
+      "pine nuts"
+    ]
   }
 ]
