@@ -26,7 +26,7 @@ def ask_user(prompt: str) -> str:
 
 
 def main():
-    print("Hi! I'm your Recipe Suggestion Helper.")
+    print("Hi! I'm your Recipe Helper.")
     print()
     
     # Ask about dietary preferences
