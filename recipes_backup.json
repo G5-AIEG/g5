@@ -3,10 +3,10 @@
   {
     "title": "Peanut Butter Banana Toast",
     "ingredients": ["bread", "peanut butter", "banana"],
+    "time": "5 minutes",
     "meal_type": "breakfast",
-    "diet_type": "vegetarian",
-    "compatible_diets": ["vegetarian", "diabetic-friendly"],
-    "description": "Quick toast with peanut butter and banana slices for a simple breakfast.",
+    "diets": ["vegetarian", "diabetic-friendly"],
+    "tags": "Quick toast with peanut butter and banana slices for a simple breakfast.",
     "steps": [
       "Toast the bread until golden.",
       "Spread peanut butter evenly over the warm toast.",
@@ -17,10 +17,10 @@
   {
     "title": "Scrambled Eggs with Toast",
     "ingredients": ["eggs", "milk", "bread"],
+    "time": "10 minutes",
     "meal_type": "breakfast",
-    "diet_type": "vegetarian",
-    "compatible_diets": ["vegetarian", "diabetic-friendly"],
-    "description": "Fluffy scrambled eggs served with a slice of buttered toast.",
+    "diets": ["vegetarian", "diabetic-friendly"],
+    "tags": "Fluffy scrambled eggs served with a slice of buttered toast.",
     "steps": [
       "Crack the eggs into a bowl, add a splash of milk, and whisk.",
       "Heat a pan over medium heat and melt a little butter.",
@@ -32,10 +32,10 @@
   {
     "title": "Apple Slices with Peanut Butter",
     "ingredients": ["apple", "peanut butter", "cinnamon"],
+    "time": "5 minutes",
     "meal_type": "snack",
-    "diet_type": "vegetarian",
-    "compatible_diets": ["vegetarian", "diabetic-friendly"],
-    "description": "Classic snack of apple slices with peanut butter and a sprinkle of cinnamon.",
+    "diets": ["vegetarian", "diabetic-friendly"],
+    "tags": "Classic snack of apple slices with peanut butter and a sprinkle of cinnamon.",
     "steps": [
       "Wash and slice the apple into wedges.",
       "Spread peanut butter on each slice or serve it on the side for dipping.",
@@ -46,10 +46,10 @@
   {
     "title": "Carrot Sticks with Hummus",
     "ingredients": ["carrot", "hummus", "olive oil"],
+    "time": "5 minutes",
     "meal_type": "snack",
-    "diet_type": "vegan",
-    "compatible_diets": ["vegan", "diabetic-friendly"],
-    "description": "Fresh carrot sticks dipped in creamy hummus for a healthy snack.",
+    "diets": ["vegan", "diabetic-friendly"],
+    "tags": "Fresh carrot sticks dipped in creamy hummus for a healthy snack.",
     "steps": [
       "Wash and peel the carrots.",
       "Slice them into sticks.",
@@ -60,10 +60,68 @@
   {
     "title": "Grilled Cheese Sandwich",
     "ingredients": ["bread", "cheese", "butter"],
+    "time": "10 minutes",
     "meal_type": "lunch",
-    "diet_type": "vegetarian",
-    "compatible_diets": ["vegetarian"],
-    "description": "Golden grilled”
-}
+    "diets": "vegetarian",
+    "tags": "Golden, crispy grilled cheese”
+},
+  [
+  {
+    "title": "Egg Salad Sandwich",
+    "ingredients": ["eggs", "mayonnaise", "bread", "salt", "pepper"],
+    "time": "20 minutes",
+    "meal_type": "lunch",
+    "diets": ["vegetarian", "diabetic-friendly"],
+    "tags": "Simple egg salad spread on soft bread for an easy lunch.",
+    "steps": [
+      "Boil the eggs until hard-cooked, then peel and chop them.",
+      "Mix chopped eggs with mayonnaise, salt, and pepper.",
+      "Spread the egg salad onto a slice of bread.",
+      "Top with another slice and serve."
+    ]
+  },
+  {
+    "title": "Rice and Beans Bowl",
+    "ingredients": ["rice", "black beans", "onion", "garlic", "olive oil"],
+    "time": "25 minutes",
+    "meal_type": "dinner",
+    "diets":  ["vegan", "diabetic-friendly"],
+    "tags": "A hearty bowl of rice and seasoned beans using pantry staples.",
+    "steps": [
+      "Cook the rice according to package instructions.",
+      "Sauté chopped onion and garlic in olive oil until soft.",
+      "Add black beans and heat through.",
+      "Serve the beans over the rice."
+    ]
+  },
+  {
+    "title": "Chicken and Veggie Skillet",
+    "ingredients": ["chicken", "carrot", "broccoli", "olive oil", "salt"],
+    "time": "25 minutes",
+    "meal_type": "dinner",
+    "diets": ["omnivore", "diabetic-friendly"],
+    "tags": "Quick chicken and vegetable skillet cooked with simple seasoning.",
+    "steps": [
+      "Cut the chicken into bite-sized pieces.",
+      "Heat olive oil in a skillet and cook the chicken until browned.",
+      "Add sliced carrots and broccoli and continue cooking until tender.",
+      "Season with salt and serve warm."
+    ]
+  },
+  {
+    "title": "Pasta with Garlic Butter",
+    "ingredients": ["pasta", "butter", "garlic", "salt", "pepper"],
+    "time": "25 minutes",
+    "meal_type": "dinner",
+    "diets": "vegetarian",
+    "tags": "Simple pasta tossed in garlic butter for a comforting dinner.",
+    "steps": [
+      "Cook the pasta in salted water until tender.",
+      "Melt butter in a pan and sauté minced garlic until fragrant.",
+      "Drain the pasta and toss it in the garlic butter.",
+      "Season with salt and pepper before serving."
+    ]
+  }
+]
 ]
 
