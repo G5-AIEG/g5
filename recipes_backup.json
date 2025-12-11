@@ -1,158 +1,69 @@
+#Ten recipes using common ingredients; hard coded JSON
 [
   {
-    "title": "Chicken & Rice Bowl",
-    "ingredients": ["chicken", "rice", "soy sauce", "oil", "salt"],
-    "time": "25 minutes",
-    "diets": ["halal", "kosher"],
+    "title": "Peanut Butter Banana Toast",
+    "ingredients": ["bread", "peanut butter", "banana"],
+    "meal_type": "breakfast",
+    "diet_type": "vegetarian",
+    "compatible_diets": ["vegetarian", "diabetic-friendly"],
+    "description": "Quick toast with peanut butter and banana slices for a simple breakfast.",
     "steps": [
-      "Cook rice according to package instructions.",
-      "Season and pan-fry chicken until cooked through.",
-      "Mix chicken with soy sauce and serve over rice with steamed veggies."
-    ],
-    "tags": ["chicken", "rice", "easy"]
-  },
-  {
-    "title": "Chicken Stir-Fry",
-    "ingredients": ["chicken", "broccoli", "soy sauce", "garlic", "oil"],
-    "time": "20 minutes",
-    "diets": ["halal", "kosher"],
-    "steps": [
-      "Cut chicken into cubes and season lightly.",
-      "Stir-fry garlic and chicken in hot oil until golden.",
-      "Add broccoli and soy sauce, cook until tender-crisp."
-    ],
-    "tags": ["chicken", "stir-fry", "quick"]
-  },
-  {
-    "title": "One-Pan Chicken & Veggies",
-    "ingredients": ["chicken", "potato", "carrot", "oil", "salt"],
-    "time": "35 minutes",
-    "diets": ["halal", "kosher"],
-    "steps": [
-      "Toss chopped chicken and veggies with oil and seasoning.",
-      "Roast on a sheet pan at 200°C until cooked through.",
-      "Serve hot."
-    ],
-    "tags": ["chicken", "roast"]
-  },
-  {
-    "title": "Tomato Pasta",
-    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "salt"],
-    "time": "20 minutes",
-    "diets": ["vegetarian", "vegan"],
-    "steps": [
-      "Cook pasta until al dente.",
-      "Sauté garlic in olive oil, add chopped tomatoes and simmer.",
-      "Toss pasta with sauce and serve."
-    ],
-    "tags": ["pasta", "vegetarian"]
-  },
-  {
-    "title": "Fried Rice",
-    "ingredients": ["rice", "egg", "carrot", "peas", "soy sauce", "oil"],
-    "time": "15 minutes",
-    "diets": ["vegetarian"],
-    "steps": [
-      "Use cold cooked rice for best texture.",
-      "Scramble eggs in the pan, set aside.",
-      "Stir-fry veggies, add rice and soy sauce, fold eggs back in."
-    ],
-    "tags": ["rice", "quick"]
-  },
-  {
-    "title": "Veggie Omelette",
-    "ingredients": ["egg", "milk", "onion", "bell pepper", "salt", "oil"],
-    "time": "10 minutes",
-    "diets": ["vegetarian", "kosher"],
-    "steps": [
-      "Beat eggs with a splash of milk.",
-      "Sauté veggies until soft, add egg mixture and cook until set.",
-      "Fold and serve."
-    ],
-    "tags": ["egg", "breakfast"]
-  },
-  {
-    "title": "Grilled Cheese",
-    "ingredients": ["bread", "cheese", "butter"],
-    "time": "10 minutes",
-    "diets": ["vegetarian"],
-    "steps": [
-      "Butter the bread slices, place cheese between them.",
-      "Grill on a pan until golden and cheese melts.",
+      "Toast the bread until golden.",
+      "Spread peanut butter evenly over the warm toast.",
+      "Slice the banana and layer the slices on top.",
       "Serve immediately."
-    ],
-    "tags": ["snack"]
+    ]
   },
   {
-    "title": "Tuna Salad",
-    "ingredients": ["tuna", "mayonnaise", "celery", "lettuce"],
-    "time": "10 minutes",
-    "diets": ["pescatarian", "halal", "kosher"],
+    "title": "Scrambled Eggs with Toast",
+    "ingredients": ["eggs", "milk", "bread"],
+    "meal_type": "breakfast",
+    "diet_type": "vegetarian",
+    "compatible_diets": ["vegetarian", "diabetic-friendly"],
+    "description": "Fluffy scrambled eggs served with a slice of buttered toast.",
     "steps": [
-      "Mix drained tuna with mayo and chopped celery.",
-      "Serve over lettuce or with bread."
-    ],
-    "tags": ["salad", "quick"]
+      "Crack the eggs into a bowl, add a splash of milk, and whisk.",
+      "Heat a pan over medium heat and melt a little butter.",
+      "Pour in the egg mixture and gently stir until soft and fluffy.",
+      "Toast the bread and butter it if desired.",
+      "Serve the eggs alongside the toast."
+    ]
   },
   {
-    "title": "Pancakes",
-    "ingredients": ["flour", "milk", "egg", "butter"],
-    "time": "20 minutes",
-    "diets": ["vegetarian"],
+    "title": "Apple Slices with Peanut Butter",
+    "ingredients": ["apple", "peanut butter", "cinnamon"],
+    "meal_type": "snack",
+    "diet_type": "vegetarian",
+    "compatible_diets": ["vegetarian", "diabetic-friendly"],
+    "description": "Classic snack of apple slices with peanut butter and a sprinkle of cinnamon.",
     "steps": [
-      "Mix flour, milk, and egg to a batter.",
-      "Fry small pancakes in butter until golden on both sides.",
-      "Serve with syrup or fruit."
-    ],
-    "tags": ["breakfast", "sweet"]
+      "Wash and slice the apple into wedges.",
+      "Spread peanut butter on each slice or serve it on the side for dipping.",
+      "Sprinkle cinnamon lightly over the top.",
+      "Enjoy as a quick snack."
+    ]
   },
   {
-    "title": "Quick Veggie Stir-Fry",
-    "ingredients": ["broccoli", "carrot", "soy sauce", "garlic", "oil"],
-    "time": "15 minutes",
-    "diets": ["vegan", "vegetarian", "halal", "kosher"],
+    "title": "Carrot Sticks with Hummus",
+    "ingredients": ["carrot", "hummus", "olive oil"],
+    "meal_type": "snack",
+    "diet_type": "vegan",
+    "compatible_diets": ["vegan", "diabetic-friendly"],
+    "description": "Fresh carrot sticks dipped in creamy hummus for a healthy snack.",
     "steps": [
-      "Heat oil and sauté garlic.",
-      "Add veggies and stir-fry until tender-crisp.",
-      "Finish with soy sauce and serve with rice or noodles."
-    ],
-    "tags": ["veggie", "quick"]
+      "Wash and peel the carrots.",
+      "Slice them into sticks.",
+      "Drizzle a tiny bit of olive oil over the hummus if desired.",
+      "Dip the carrot sticks into the hummus and serve."
+    ]
   },
   {
-    "title": "Tofu Stir-Fry",
-    "ingredients": ["tofu", "broccoli", "bell pepper", "soy sauce", "garlic", "oil"],
-    "time": "20 minutes",
-    "diets": ["vegan", "vegetarian"],
-    "steps": [
-      "Press tofu and cut into cubes.",
-      "Pan-fry tofu until golden, set aside.",
-      "Stir-fry veggies and garlic, add tofu back with soy sauce, cook until done."
-    ],
-    "tags": ["tofu", "quick"]
-  },
-  {
-    "title": "Lentil & Vegetable Curry",
-    "ingredients": ["lentils", "coconut milk", "tomato", "onion", "garlic", "oil", "curry powder"],
-    "time": "30 minutes",
-    "diets": ["vegan", "vegetarian"],
-    "steps": [
-      "Sauté onion and garlic in oil.",
-      "Add curry powder, lentils, and coconut milk.",
-      "Add tomato and simmer until lentils are tender.",
-      "Serve with rice or bread."
-    ],
-    "tags": ["curry", "vegan"]
-  },
-  {
-    "title": "Grilled Fish with Lemon",
-    "ingredients": ["fish", "lemon", "olive oil", "salt", "pepper"],
-    "time": "20 minutes",
-    "diets": ["pescatarian", "halal", "kosher"],
-    "steps": [
-      "Brush fish with olive oil and season with salt and pepper.",
-      "Grill or pan-fry fish until cooked through (about 5-7 min per side).",
-      "Squeeze fresh lemon juice and serve."
-    ],
-    "tags": ["fish", "pescatarian"]
-  }
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "meal_type": "lunch",
+    "diet_type": "vegetarian",
+    "compatible_diets": ["vegetarian"],
+    "description": "Golden grilled”
+}
 ]
+
